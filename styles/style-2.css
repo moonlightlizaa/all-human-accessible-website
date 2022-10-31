@@ -54,7 +54,7 @@
   text-decoration: none;
   color: #090940;
   font-size: 20px;
-  font-family: "Rigid Square";
+  font-family: "rigid-square";
   font-weight: bold;
   display: block;
   height: 60px;
@@ -110,7 +110,7 @@ article {
 }
 
 h1 {
-  font-family: "Rigid Square";
+  font-family: "rigid-square" sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 32px;
@@ -122,7 +122,7 @@ h1 {
 }
 
 p {
-  font-family: "Yrsa";
+  font-family: "yrsa";
   font-weight: 400;
   font-size: 1rem;
   line-height: 1.5rem;
@@ -185,7 +185,7 @@ p.copyright {
 
     color: #090940;
     font-size: 20px;
-    font-family: "Rigid Square";
+    font-family: "rigid-square";
     font-weight: bold;
   }
 

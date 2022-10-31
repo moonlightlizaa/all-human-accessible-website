@@ -54,7 +54,7 @@
   text-decoration: none;
   color: #090940;
   font-size: 20px;
-  font-family: "Rigid Square";
+  font-family: "rigid-square";
   font-weight: bold;
   display: block;
   height: 60px;
@@ -105,7 +105,7 @@
 /* ------------- content ------------ */
 
 h1 {
-  font-family: "Rigid Square";
+  font-family: "rigid-square";
   font-size: 26px;
   font-weight: 700;
   color: #090940;
@@ -199,7 +199,7 @@ main {
   width: 153px;
   height: 54px;
 
-  font-family: "Rigid Square";
+  font-family: "rigid-square";
   font-style: normal;
   font-weight: 800;
   font-size: 20px;
@@ -280,7 +280,7 @@ main {
   height: 54px;
 
   margin: 50px;
-  font-family: "Rigid Square";
+  font-family: "rigid-square";
   font-style: normal;
   font-weight: 800;
   font-size: 20px;
@@ -346,7 +346,7 @@ p.copyright {
 
     color: #090940;
     font-size: 20px;
-    font-family: "Rigid Square";
+    font-family: "rigid-square";
     font-weight: bold;
   }
 
@@ -495,7 +495,7 @@ p.copyright {
     width: 125px;
     height: 50px;
 
-    font-family: "Rigid Square";
+    font-family: "rigid-square";
     font-style: normal;
     font-weight: 800;
     font-size: 16px;
@@ -546,7 +546,7 @@ p.copyright {
 
     color: #090940;
     font-size: 20px;
-    font-family: "Rigid Square";
+    font-family: "rigid-square";
     font-weight: bold;
   }
 
@@ -641,7 +641,7 @@ p.copyright {
     width: 125px;
     height: 50px;
 
-    font-family: "Rigid Square";
+    font-family: "rigid-square";
     font-style: normal;
     font-weight: 800;
     font-size: 16px;
@@ -720,7 +720,7 @@ p.copyright {
     width: 125px;
     height: 50px;
 
-    font-family: "Rigid Square";
+    font-family: "rigid-square";
     font-style: normal;
     font-weight: 800;
     font-size: 16px;
