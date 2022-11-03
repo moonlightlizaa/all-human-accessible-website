@@ -31,7 +31,7 @@ Later is het ook nog mogelijk zijn om ze te op categorie te filteren en ook zelf
 
 
 ## Kenmerken
-Voor dit project heb ik gebruik gemaakt van HTMl, CSS en een beetje JavaScript. 
+Voor dit project ben ik verder gegaan met mijn website voor Visual Thinking. Ik heb de feedback van de opdrachtgever toegepast en ook de website getest en aangepast op toegankelijkheid. 
 
 ## Bronnen
 
