@@ -10,6 +10,7 @@ function Hide() {
 function myFunction() {
   var content = document.getElementById("moreContent");
   var btnText = document.getElementById("loadMore");
+  var moveBtn = document.getElementById("loadMore");
 
   if (content.style.display === "none") {
     content.style.display = "grid";

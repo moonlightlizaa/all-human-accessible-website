@@ -97,11 +97,55 @@
   margin-top: 35px;
 }
 
-.filter {
-  text-align: center;
-  margin: 100px;
+/* --------------------- filter ----------------- */
+
+.category {
+  display: grid;
+  grid-template-columns: 255px 1fr 255px;
+  grid-template-rows: 1fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+
+  margin-bottom: 50px;
+  margin-top: 75px;
 }
 
+.filter-menu {
+  font-family: "rigid-square";
+  font-size: 20px;
+  color: #090940;
+  grid-area: 1 / 2 / 2 / 3;
+}
+.filter-menu-items {
+  padding: 5px;
+}
+
+.filter-menu-item-1 {
+  padding-left: 55px;
+}
+
+.filter-menu-item-2 {
+  padding-left: 60px;
+}
+
+.filter-menu-item-3 {
+  padding-left: 160px;
+}
+
+.filter-menu-item-4 {
+  padding-left: 40px;
+}
+
+.filter-content {
+  cursor: pointer;
+  font-family: "rigid-square";
+  font-size: 18px;
+  color: #090940;
+  border: none;
+  background-color: #ffffff;
+  text-decoration: none;
+  text-align: left;
+}
 /* ------------- content ------------ */
 
 a {
@@ -183,7 +227,7 @@ main {
 
 .laad-meer {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: 255px 1fr 255px;
   grid-template-rows: 1fr;
   grid-column-gap: 25px;
   grid-row-gap: 25px;
@@ -195,7 +239,7 @@ main {
 }
 
 .laad-meer button {
-  grid-area: 1 / 3 / 2 / 4;
+  grid-area: 1 / 2 / 2 / 3;
   justify-self: center;
 
   background-color: #f96c4f;
@@ -307,6 +351,7 @@ p.copyright {
 
   color: #ffffff;
 }
+
 /* ------------------------------ TABLET RESPONSIVE ---------- */
 
 @media screen and (max-width: 1280px) {
